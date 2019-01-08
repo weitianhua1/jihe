@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<style>
+		body, ul, li {
+			margin: 0;
+			padding: 0;
+		}
+
+		ul {
+			list-style: none;
+		}
+
+		img {
+			display: block;
+		}
+
+		.view-box {
+			width: 680px;
+			height: 320px;
+			padding: 5px;
+			margin: 100px auto;
+			border: 1px solid #CCC;
+			background-color: #F2F2F2;
+			border-radius: 5px;
+		}
+
+		.view-box ul {
+			width: 100%;
+			height: 100%;
+			position: relative;
+			overflow: hidden;
+		}
+
+		.view-box li {
+			position: absolute;
+			top: -325px;
+		}
+
+		.view-box li:first-child {
+			top: 0;
+		}
+
+		.view-box li:nth-child(1) {
+			animation: cycle 10s linear infinite;
+		}
+
+		.view-box li:nth-child(2) {
+			animation: cycletwo 10s linear infinite;
+		}
+
+		.view-box li:nth-child(3) {
+			animation: cyclethree 10s linear infinite;
+		}
+
+		.view-box li:nth-child(4) {
+			animation: cyclefour 10s linear infinite;
+		}
+
+		.view-box li:nth-child(5) {
+			animation: cyclefive 10s linear infinite;
+		}
+		.view-box li:nth-child(6) {
+			animation: cyclesix 10s linear infinite;
+		}
+
+		@keyframes cycle {
+			0%  {top: 0px;}
+			4%  {top: 0px;}
+			16% {top: 0px; opacity: 1; z-index: 0;} 
+			20% {top: 325px; opacity: 0; z-index: 0;}
+			21% {top: -325px; opacity: 0; z-index: -1;}
+			50% {top: -325px; opacity: 0; z-index: -1;}
+			92% {top: -325px; opacity: 0; z-index: 0;}
+			96% {top: -325px; opacity: 0;}
+			100%{top: 0px; opacity: 1;}
+		}
+
+		@keyframes cycletwo {
+			0%  {top: -325px; opacity: 0;}
+			16% {top: -325px; opacity: 0;}
+			20% {top: 0px; opacity: 1;}
+			24% {top: 0px; opacity: 1;} 
+			36% {top: 0px; opacity: 1; z-index: 0;} 
+			40% {top: 325px; opacity: 0; z-index: 0;}
+			41% {top: -325px; opacity: 0; z-index: -1;}  
+			100%{top: -325px; opacity: 0; z-index: -1;}
+		}
+
+		@keyframes cyclethree {
+			0%  {top: -325px; opacity: 0;}
+			26% {top: -325px; opacity: 0;}
+			30% {top: 0px; opacity: 1;}
+			44% {top: 0px; opacity: 1;} 
+			56% {top: 0px; opacity: 1; z-index: 0;} 
+			60% {top: 325px; opacity: 0; z-index: 0;} 
+			61% {top: -325px; opacity: 0; z-index: -1;}
+			100%{top: -325px; opacity: 0; z-index: -1;}
+		}
+
+		@keyframes cyclefour {
+			0%  {top: -325px; opacity: 0;}
+			36% {top: -325px; opacity: 0;}
+			40% {top: 0px; opacity: 1;}
+			54% {top: 0px; opacity: 1;}
+			66% {top: 0px; opacity: 1; z-index: 0;}
+			70% {top: 325px; opacity: 0; z-index: 0;}
+			81% {top: -325px; opacity: 0; z-index: -1;}
+			100%{top: -325px; opacity: 0; z-index: -1;}
+		}
+
+		@keyframes cyclefive {
+			0%  { top:-325px; opacity:0; }
+			46% { top:-325px; opacity:0; }
+			50% { top:0px; opacity:1; }
+			84% { top:0px; opacity:1; }
+			96% { top:0px; opacity:1; z-index:0; }
+			100%{ top:325px; opacity:0; z-index:0; }
+			
+		}
+		@keyframes cyclesix {
+			0%  { top:-325px; opacity:0; }
+			56% { top:-325px; opacity:0; }
+			80% { top:0px; opacity:1; }
+			84% { top:0px; opacity:1; }
+			96% { top:0px; opacity:1; z-index:0; }
+			100%{ top:325px; opacity:0; z-index:0; }
+			
+		}
+	</style>
+</head>
+<body>
+		<div class="content">
+				<h1>小可爱</h1>
+				</div>
+	
+	<div class="view-box">
+		<ul>
+			<li><img src="../jihe/图片/1.jpg" alt=""></li>
+			<li><img src="../jihe/图片/2.jpg" alt=""></li>
+			<li><img src="../jihe/图片/3.jpg" alt=""></li>
+			<li><img src="../jihe/图片/4.jpg" alt=""></li>
+			<li><img src="../jihe/图片/5.jpg" alt=""></li>
+			<li><img src="../jihe/图片/6.jpg" alt=""></li>
+		</ul>
+	</div>
+</body>
+</html>

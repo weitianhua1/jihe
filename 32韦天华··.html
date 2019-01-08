@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+            div,
+            h2 {
+                margin: 0;
+                padding: 0;
+            }
+    
+            .mod {
+                height: 36px;
+                border-bottom: 2px blue solid;
+                text-align: left;
+    
+            }
+    
+            .mod .title {
+                font: 16px/26px "Microsoft YaHei", "SimHei", SimSun, Tahoma, Verdana, Arial, sans-serif;
+            }
+    
+            .mod .title span {
+                position: relative;
+                bottom: -3px;
+                float: left;
+                height: 36px;
+                line-height: 30px;
+                color: #333;
+                margin-right: 30px;
+                cursor: pointer;
+            }
+    
+    
+            .mod .title .current,
+            .title span:hover {
+                color: #3983e5;
+            }
+    
+            .mod .title .current {
+                cursor: default;
+            }
+    
+            .mod .title .current i {
+                display: inline-block;
+            }
+    
+            .mod .title i {
+                position: absolute;
+                left: 50%;
+                margin-left: -6px;
+                bottom: 3px;
+                display: none;
+                border-bottom: 6px solid #39e5dc;
+                border-top: 0 none;
+                border-left: 6px solid transparent;
+                border-right: 6px solid transparent;
+            }
+    
+            .mod .label-en {
+                position: absolute;
+                top: -12px;
+                left: 20px;
+                display: inline-block; 
+
+    
+                background-color: orange;
+                color: #fff;
+                font-weight: normal;
+                padding: 0 2px;
+                font-size: 8px;
+                line-height: 16px;
+    
+            }
+    
+            .mod .triangle {
+                position: absolute;
+                z-index: 1;
+                top: 17px;
+                right: 0;
+                display: inline-block;
+                border-width: 3px;
+                border-style: solid;
+                border-color:orange transparent transparent orange;
+            }
+        </style>
+
+
+</head>
+<body>
+        <div class="mod">
+                <h2 class="title">
+                    <span class="current">
+                        热门
+                        <i></i>
+                    </span>
+                    <span>
+                        特卖汇
+                    </span>
+                    <span>
+                        出境游
+                        <i></i>
+                        <b class="label-en">
+                            <em>new</em>
+                            <em class="triangle"></em>
+                        </b>
+                    </span>
+                    <span>
+                        境内游
+                    </span>
+                    <span>
+                        周边游
+                    </span>
+                    <span>
+                        邮轮
+                    </span>
+                    <span>
+                        门票
+                    </span>
+                    <span>
+                        主题游
+                    </span>
+                    <span>
+                        高端游
+                    </span>
+        <a class="dropdown-toggle" href="">
+            <span cityid="2"></span>
+            "上海出发"
+            <span class="caret"></span>
+        </a>
+
+                </h2>
+        
+            </div>
+</body>
+</html>

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        img{
+            border: 0;
+        }
+
+        .flex-card-image img {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    max-width: 60%;
+    width: 50%;
+    }
+        .demo-display {
+    background:skyblue;
+    border-bottom: 3px solid pink;
+    
+}
+.demo-display {
+    margin: 0 auto;
+    padding: 1em 5% 2em;
+    width: 100%;
+}
+.l-fullheight {
+    min-height: 100vh;
+}
+.demo-display {
+    box-sizing: border-box;
+    font-family: europa,sans-serif;
+}
+.flex-card{
+    background: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    padding: 0.6em;
+    margin: 10px;
+    
+}
+.flex-card-button{
+    background: #d12a2a;
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    padding: 1em .40em;
+    text-decoration: none;
+    transition:  3s ease;
+    text-align: center;
+}
+
+
+
+        .flexbox .flex-card-list{
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 100%;
+          }
+        .flexbox .flex-card-listitem{
+            display: flex;
+        }
+        @media all and (min-width:40em){
+            .flex-card-list li{
+                width: 50%;
+                list-style-type: none;
+            }
+        .flex-card-list li{
+                float: left;
+                list-style-type: none;
+            }
+        }
+        @media all and (min-width:40em) and (max-width:60em){
+       .flex-card-list li:nth-child(2n+1){
+                 clear: both;
+                 list-style-type: none;
+             }
+        }
+        @media all and (min-width:60em){
+            .flex-card-list li{
+                width: 33.33%;
+                list-style-type: none;
+            }
+       .flex-card-list li:nth-child(3n+1){
+                 clear: both;
+                 list-style-type: none;
+             }
+        }
+        .flexbox .flex-card{
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+           
+        }
+        .flexbox .flex-card-content{
+            display: flex;
+            flex: 1 0 auto;
+            flex-direction: column;
+        }
+        .flexbox .flex-card-content p{
+            flex: 1 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <figure class="demo-display l-fullheight">
+    <ul class="flex-card-list">
+     <li class="flex-card-listitem">
+         <div class="flex-card">
+             <div class="flex-card-image">
+              <img src="../32韦天华，/2903447217bdc2a804e2d37487627032.jpg" alt="">
+             </div>
+             <div class="flex-card-content">
+              <h3 class="flex-card-heading"></h3>
+              <p>GGGG</p>
+              <a href="#" class="flex-card-button">Happy</a>
+             </div>
+           </div>
+         </li>
+
+         <li class="flex-card-listitem">
+         <div class="flex-card">
+             <div class="flex-card-image">
+              <img src="../32韦天华，/2903447217bdc2a804e2d37487627032.jpg" alt="">
+             </div>
+             <div class="flex-card-content">
+              <h3 class="flex-card-heading"></h3>
+              <p>GGGG</p>
+              <a href="#" class="flex-card-button">Happy</a>
+             </div>
+           </div>
+         </li>
+
+          <li class="flex-card-listitem">
+         <div class="flex-card">
+             <div class="flex-card-image">
+              <img src="../32韦天华，/2903447217bdc2a804e2d37487627032.jpg" alt="">
+             </div>
+             <div class="flex-card-content">
+              <h3 class="flex-card-heading"></h3>
+              <p>GGGG</p>
+              <a href="#" class="flex-card-button">Happy</a>
+             </div>
+           </div>
+         </li>
+
+             <li class="flex-card-listitem">
+         <div class="flex-card">
+             <div class="flex-card-image">
+              <img src="../32韦天华，/2903447217bdc2a804e2d37487627032.jpg" alt="">
+             </div>
+             <div class="flex-card-content">
+              <h3 class="flex-card-heading"></h3>
+              <p>GGGG</p>
+              <a href="#" class="flex-card-button">Happy</a>
+             </div>
+           </div>
+         </li>
+         <li class="flex-card-listitem">
+            <div class="flex-card">
+                <div class="flex-card-image">
+                 <img src="../32韦天华，/2903447217bdc2a804e2d37487627032.jpg" alt="">
+                </div>
+                <div class="flex-card-content">
+                 <h3 class="flex-card-heading"></h3>
+                 <p>GGGG</p>
+                 <a href="#" class="flex-card-button">Happy</a>
+                </div>
+              </div>
+            </li>
+            <li class="flex-card-listitem">
+                <div class="flex-card">
+                    <div class="flex-card-image">
+                     <img src="../32韦天华，/2903447217bdc2a804e2d37487627032.jpg" alt="">
+                    </div>
+                    <div class="flex-card-content">
+                     <h3 class="flex-card-heading"></h3>
+                     <p>GGGG</p>
+                     <a href="#" class="flex-card-button">Happy</a>
+                    </div>
+                  </div>
+                </li>
+  
+    </ul>
+</figure>
+</body>
+</html>

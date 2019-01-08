@@ -1,0 +1,291 @@
+html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, em, button {
+    margin: 0;
+    padding: 0;
+    }
+    body {
+        font: 12px/1.5 "Microsoft yahei", arial, Simsun, sans-serif;
+        color: #333;
+        background-color: #fff;
+    }
+ul{
+    list-style: none;
+}
+a{
+    color: #e53950; 
+    text-decoration: none;
+}  
+
+.mod{
+    width: 945px;
+    margin: 20px auto;
+    /* background-color: #eeeeee; */
+     overflow: hidden;
+}
+
+.mod .top{
+    /* height: 54px; */
+    background-color:transparent;
+}
+.mod .mod-content{
+    border: 1px solid #e0e0e0;
+     height: 312px;
+     border-top-width: 0px;
+     position: relative;
+     overflow: hidden;
+}
+ .mod .left{
+    float: left;
+    width:  182px;
+    height: 312px;
+    /* background-color: #555555; */
+   border-right: 1px dotted #a3a3a3;
+   /* overflow: hidden; */
+}
+.mod .right{
+    /* float: left; */
+    /* width: 730px; */ 
+   /* background-color: #666666; */
+    height: 400px;
+    padding: 12px 17px 13px 15px;
+   margin-left: 184px;
+} 
+.mod .right  li.active{
+    width: 37px;
+    height: 18px;
+    background-color:#e53947;
+    border-radius: 2px;
+     /* color: #fff;  */
+    font-size: 12px;
+    text-align: center;
+    /* line-height: 16px;
+    font-weight: bold; */
+}
+
+.mod  li.active a {
+     color: #fff; 
+    font-size: 10px;
+}
+.mod .right .more{
+    position:absolute;
+    top: 12px;
+    right: 17px;
+    padding: 2px 10px;
+}
+.mod .right .more:hover{
+    border: 1px solid #e53942;
+    border-radius: 7px;
+}
+.mod .product{
+    margin-top: 8px;
+    
+}
+.mod .product li{
+    float: left;
+    width: 173px;
+    height: 130px;
+    margin: 0px 8px 8px 0px;
+    background-color: white;
+}
+.product-item {
+    position: relative;
+    width: 220px;
+    height: 160px;
+    float: left;
+    margin: 0 0 10px 10px;
+    overflow: hidden;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+}
+/* .price{
+    position: relative;
+    height: 35px;
+    text-align: right;
+    padding: 0 5px;
+}
+.product-item a:hover {
+    text-decoration: none;
+}
+
+.product-item a {
+    text-decoration: none;
+    color: #666;
+}*/
+
+
+.item-name {
+    position: relative;
+    height: 20px;
+    line-height: 20px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0 5px;
+}
+img{
+    border: none;
+    vertical-align: middle;
+    transition: transform 0.3s ease 0s;
+    width: 150px;
+}
+.price {
+    position: relative;
+    float: right;
+    font: 18px/1.5 tahoma;
+    color: #f60;
+    padding: 0 5px;
+    left: -22px;
+}
+.price dfn {
+    vertical-align: 7px;
+    font: 12px/1.5 arial;
+    color: #666;
+}
+.price .price_info {
+    margin-left: 3px;
+    vertical-align: 2px;
+    font: 15px/1.5 "Microsoft yahei";
+    color: #666;
+    left: -22px;
+} 
+
+
+.mod .entrance-theme {
+    padding-top: 10px;
+}
+.mod .entrance {
+    position: relative;
+    float: left;
+    display: inline;
+    width: 166px;
+    height: 360px;
+    padding: 0 20px 15px;
+    overflow: hidden;
+}
+.entrance dl {
+    margin: 0px 0 7px 0;
+    overflow: hidden;
+    position: relative;
+}
+.mod .entrance-theme dt {
+    line-height: 1.5;
+}
+.entrance dt {
+    padding: 4px 0 0 0;
+    font: 700 14px/34px "Microsoft yahei";
+}
+.mod .entrance-theme dd {
+    margin-left: -8px;
+}
+.entrance dd {
+    margin-left: -10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: relative;
+    zoom: 1;
+}
+.mod .entrance-theme .entrance-item {
+    line-height: 1;
+    height: auto;
+    padding: 0 8px;
+    margin: 7px 0 5px;
+}
+.entrance .entrance-item {
+    position: relative;
+    float: left;
+    display: block;
+    border-left: 1px solid #ececec;
+    padding: 0 10px;
+    line-height: 18px;
+    height: 18px;
+    margin: 7px 0;
+}
+.entrance .entrance-item .icon_hot {
+    position: absolute;
+    top: -6px;
+    right: 3px;
+}
+.icon_hot {
+    width: 11px;
+    height: 11px;
+    background-position: -16px -32px;
+}
+.mod .entrance .one {
+    color: #666;
+}
+.keyword-short  .one {
+    display: inline-block;
+    max-width: 72px;
+}
+
+
+.header span{
+    position: relative;
+    bottom: -5px;
+    float: left;
+    height: 35px;
+    line-height: 35px;
+    color:#333;
+    margin-right: 50px;
+    cursor: pointer;
+    font-size: 16px;
+}
+ 
+.two_2{
+    position: absolute;
+    z-index: 1;
+    top: 15px;
+    right: 0;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #ff9913 transparent transparent #ff9913;
+}
+.header b{
+ position: absolute;
+ z-index: 9;
+ display: inline-block;
+ padding: 0 2px;
+ height: 15px;
+ line-height: 13px;
+ background-color:#ff9913;
+ color: aliceblue;
+top:-7px;
+left: 28px;
+font-size: 5px;
+
+}
+.header .current{
+ color:#06c;
+ cursor: default;
+}
+.header i{
+ position: absolute;
+ left: 50%;
+ margin-left: -6px;
+ bottom: 0px;
+ border-bottom: 6px solid #3983e5;
+ border-top: 0 none;
+ border-left: 6px solid transparent;
+ border-right: 6px solid transparent
+}
+.header{
+ height: 40px;
+ border-bottom: 2px #3983e5 solid;
+ text-align: left;
+}
+.header .theme{
+ padding-top: 10px;
+}
+.header .keyword{
+ position: relative;
+ line-height: 52px;
+ display: inline;
+
+ padding: 0 10px 10px;
+ overflow: hidden;
+}
+

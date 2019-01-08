@@ -1,0 +1,336 @@
+*{
+    margin: 0;
+   padding:0;
+ }
+ .cl{
+     clear: both;
+ }
+
+ body{
+     font-size: 14px;
+     font-family: "Arial","Mircosoft YaHei","SimSun";
+ }
+
+ .innerCenter{
+     width:1000px;
+     margin: 0px auto;
+ }
+
+ .header{
+     height: 58px;
+     background-color: rgb(51, 72, 230);
+ }
+
+ .header .logo{
+     float: left;
+     padding-left: 14px;
+     margin-right:39px; 
+     width: 174px;
+ }
+
+ .header .nav{
+     float: left;
+     width: 607px;
+ }
+
+ .header .nav ul{
+     list-style: none;
+ }
+
+ .header .nav ul li{
+     float: left;
+     width: 100px;
+     border-left: 1px solid #252947;
+ }
+ .header .nav ul li.last{
+     border-right: 1px solid #252947;
+ }
+ .header .nav ul li a{
+     display: block;
+     width: 100px;
+     height: 58px;
+     line-height: 58px;
+     text-align: center;
+     text-decoration: none;
+     color: #818496;
+     font-weight: bold;
+ }
+ .header .nav ul li a:hover{
+     color: #E2E4ED;
+ }
+ .header .nav ul li.first{
+  background-color: #252947;
+  color: #E2E4ED;
+ }
+ .header .joinus{
+     float: left;
+     margin-left:48px;
+     padding-top: 12px;
+
+ }
+ .header .joinus a{
+     display: block;
+     width: 98px;
+     height: 32px;
+     border:1px solid #3ACA7A;
+     border-radius: 4px;
+     background-color: #38B774;
+     line-height: 32px;
+     text-align: center;
+     text-decoration: none;
+     color: white;
+     font-weight: bold;
+ }
+ .banner{
+     height: 465px;
+     background-image: url(images/banner.jpg);
+     background-repeat: no-repeat;
+     background-position: center center;
+     }
+
+ .content{
+     background-image: url(images/indexmainbg.jpg);
+     background-repeat: no-repeat;
+     background-position: center bottom;
+     height: 700px;
+
+ }
+ .content .product{
+     padding-top: 50px;
+     padding-bottom: 39px;
+     border-bottom: 1px solid #DBE1E7;
+     height: 191px;
+ }
+
+ .content .product ul{
+     list-style: none;
+     }
+ .content .product li{
+     float:left;
+     width: 218px;
+     height: 191px;
+     margin-right: 43px;
+     /*background-color: gray;*/
+ }
+  .content .product li.last{
+     width: 217px;  
+     margin-right:0px;    
+ }
+ .content .product li a{
+       display: block;       	 
+       height: 191px;
+    text-decoration: none;    
+
+  }      
+
+ .content .product li img{
+     width: 218px;     	
+     height: 128px;
+ }		
+  
+  .content .product li.last img{      	
+     width: 217px;       	
+ }		
+  
+ .content .product li a h5{
+     line-height: 30px;
+     color: #444866;
+     text-align:center;
+ }
+ .content .product li a p{
+     line-height: 32px;
+     color: #38B774;
+     text-align:center;
+     font-weight: bold;      	
+     background-image: url(images/tgreen.png) ;
+   background-repeat: no-repeat; 
+   background-position: 150px 14px;
+ }
+
+ .content .product li a:hover{
+   background-color: #38B774;         
+  }
+
+  .content .product li a:hover p{
+   color: white;
+   background-image: url(images/twhite.png) ;
+  }
+
+   .content .product li a:hover h5{
+   color: white;
+  }
+
+  .content .info{
+      margin-top: 53px;
+      margin-bottom:53px;
+  }
+
+   .content .info .news{
+       float: left;
+       width: 490px;			
+       background-image: url(images/bynewsbg.jpg);
+       position: relative;
+       /*padding-top: 120px;*/
+       /*padding-left:10px;*/
+   }
+
+   .content .info .news .more{
+       padding-top:40px;
+       padding-left:208px;
+   }
+   .content .info .news .more a{			
+       display:block;
+       width: 64px;
+       height: 26px;		
+       font-size:12px;
+       border:1px solid #33B972;	
+       border-radius:5px;		
+       color: #33B972;
+       text-decoration: none;
+       text-align: center;
+       padding-top: 4px;
+   }	
+   .content .info .news .more a:hover{			
+       color: white;
+       background-color: #33B972;			
+   }
+
+   .content .info .news ul{
+       list-style: none;
+       padding-top:48px;
+       padding-left: 20px;			
+   }
+
+   .content .info .news ul li{
+       width: 458px;
+       height: 50px;
+       line-height: 50px;
+       border-bottom:1px solid #DBE1E7;			
+   }
+
+   .content .info .news ul li a{
+       float: left;
+       text-decoration:none;
+       color: #444866;
+       font-weight: bold;
+   }
+   
+   .content .info .news ul li a:hover{			
+       color: #38B774;
+   }
+   
+   .content .info .news ul li span{
+       float:right;
+       color:#CAC4CF;
+       font-weight: bold;
+   }
+
+   .content .info .jobs{
+       float:right;
+       width: 480px;
+       background-image: url(images/byhrbg3.jpg);
+       padding-top: 40px;
+       padding-left:20px;		
+       padding-bottom: 27px;	
+       }
+   .content .info .jobs .boyaajobs{
+       float: left;
+       padding-left:60px;
+
+   }
+   .content .info .jobs .boyaajobs h2{	
+       font-size: 28px;
+       font-weight: bold;
+       font-family: "微软雅黑";
+       color: white;
+   }
+   .content .info .jobs .boyaajobs p{
+       font-size: 12px;
+       color: white;
+   }
+   
+   .content .info .jobs .more{
+       float: left;
+       padding-left: 25px;
+   }
+   .content .info .jobs .more a{			
+       display:block;
+       width: 64px;
+       height: 26px;		
+       font-size:12px;
+       border:1px solid white;
+       border-radius:5px;		
+       color: white;
+       background-color: #33B972;	
+       text-decoration: none;
+       text-align: center;
+       padding-top: 4px;
+   }	
+   .content .info .jobs .more a:hover{			
+        background-color: white;
+        border-color:  #33B972;
+        color: #33B972;	
+   }
+
+   .content .info .jobs h3{
+       margin-top:26px;
+       font-family: "微软雅黑";
+       font-weight: bold;
+       color:white;
+   }
+
+   .content .info .jobs ul{
+       list-style: none;
+   }
+
+   .content .info .jobs ul li{
+       height: 38px;
+       line-height: 38px;
+       border-bottom: 1px solid #6FDEA3;
+   }
+   .content .info .jobs ul li a{
+       display: block;
+       width: 300px;
+       height: 38px;
+       color:white;
+       text-decoration: none;
+       font-weight: bold;
+   }
+   
+   .foot{
+       height: 120px;
+       background-color: #191D3A;
+   }
+   .foot p{
+       float: left;        	
+       line-height: 60px;        	
+       color: #6C6E7E;
+       font-size: 12px;
+   }
+
+   .foot p.copyright{
+       width: 960px;
+       text-align:center;
+   }
+
+   .foot p.webmap{
+       text-align:left;
+   }
+
+   .foot a{
+       color: #6C6E7E;
+       text-decoration:none;
+   }
+   .foot a:hover{
+       color: white;
+   }
+   
+   .foot .govIcon{
+       float:right;
+       padding-top:10px;
+   }
+
+   .foot .govIcon img{
+       width:40px;
+       height: 52px;  
+   }
