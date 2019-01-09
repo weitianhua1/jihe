@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script src="js/shoppingcart.js"></script>
+    <script>
+        // 创建一个购物车
+        var cart = new ShoppingCart();
+        cart.clearCart();
+
+        //  创建一个商品
+        var product = new Product('01', '新款面膜', '01.jpg', 1)
+        //  创建一个订单 
+        var order = new Order(product, 3, true);
+        // 将订单order置入购物车（本地存储）
+        cart.addToCart(order);
+
+
+        // 又创建第2个商品
+        product = new Product('02', '书', '02.jpg', 10)
+        // 又创建第2订单
+        order = new Order(product, 6, true);
+        // 将新商品加入购物车（本地存储）
+        cart.addToCart(order);
+
+
+        // 又创建第3个商品
+        product = new Product('03', '香水', '03.jpg', 19.5)
+        // 又创建第3个订单
+        order = new Order(product, 8, false);
+        // 将新商品加入购物车（本地存储）
+        cart.addToCart(order);
+
+        console.log(cart.getSelectedQty());
+        console.log(cart.getSelectedAmount());
+
+        cart.setItemSelectStatus('03', true);
+        console.log(cart.getSelectedQty());
+        console.log(cart.getSelectedAmount());
+
+        cart.deleteItem('05');
+        cart.changeQty('03','-');
+        cart.changeQty('03','-');
+        cart.changeQty('03','-');
+        cart.changeQty('03','-');
+
+    </script>
+</body>
+
+</html>

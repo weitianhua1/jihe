@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-cn">
+
+<head>
+  <title>购物车</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <!-- <meta data-name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B"
+    crossorigin="anonymous">
+</head>
+
+<body>
+  <!-- 导航开始 -->
+  <header>
+    <nav class="nav bg-light">
+      <a class="nav-link disabled " href="index.html">首页</a>
+      <a class="nav-link actived" href="#">购物车</a>
+    </nav>
+    <!-- 导航结束 -->
+  </header>
+  <div class='container mt-3'>
+    <div class="row">
+      <div class="col-2 font-weight-bold">全部商品 <span class="text-danger" data-name="units">0</span></div>
+      <div class="col-4">热门商品</div>
+      <div class="col-4">免息商品</div>
+      <div class="col-2">配送至：广西柳州市柳州职业技术学院</div>
+    </div>
+    <div class="row mt-3 bg-light border p-3">
+      <div class="col-2"><input type="checkbox" checked="true" data-operator='selectAll' >全选</div>
+      <div class="col-5">商品</div>
+      <div class="col-1">单价</div>
+      <div class="col-2">数量</div>
+      <div class="col-1">小计</div>
+      <div class="col-1">操作</div>
+    </div>
+    <div id="cartList">
+      <div class="row p-3 mt-1 bg-light d-none" id="orderExample">
+        <div class="col-2"><input type="checkbox" data-operator='checkItem'></div>
+        <div class="col-5">
+          <a href=""><img data-name="imgSrc" src="" alt="" width="100px" height="100px"></a><span data-name="title"></span>
+        </div>
+        <div class="col-1 text-right ">¥<span data-name="price">0.00</span></div>
+        <div class="col-2">
+          <div class="btn-group">
+            <button type="button" class="btn btn-sm btn-outline-danger" data-operator='increase'>+</button>
+            <button type="button" class="btn btn-sm btn-outline-danger disabled" data-name='qty'>0</button>
+            <button type="button" class="btn btn-sm btn-outline-danger" data-operator='decrease'>-</button>
+          </div>
+        </div>
+        <div class="col-1">¥<span data-name="subPrice">0.00</span></div>
+        <div class="col-1"><button class="btn btn-light" data-operator='deleteItem'>删除</button></div>
+      </div>
+
+    </div>
+    <div class="row mt-3 border p-3">
+      <div class="col-2"><input type="checkbox" checked="true" data-operator='selectAll'>全选</div>
+      <div class="col-2"><button class="btn btn-light" data-operator='deleteSelected'>删除选中的商品</button></div>
+      <div class="col-2"><button class="btn btn-light" data-operator='clearAll'>清空购物车</button></div>
+      <div class="col-2">已选择 <span class="text-danger" data-name="selectedQty">0</span>件商品</div>
+      <div class="col-2">总价：¥<span class="text-danger" data-name="selectedAmount">0</span></div>
+      <div class="col-2"><button class="btn btn-danger" data-operator='gotoPlay'>去结算</button></div>
+    </div>
+  </div>
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em"
+    crossorigin="anonymous"></script>
+  <script src="js/shoppingcart.js"></script>
+  <script src="js/cartList.js"></script>
+</body>
+
+</html>
