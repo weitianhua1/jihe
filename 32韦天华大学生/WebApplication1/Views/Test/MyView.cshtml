@@ -1,0 +1,32 @@
+﻿@using WebApplication1.ViewModels
+@model EmployeeViewModel
+@{
+    Layout = null;
+    //Employee emp = (Employee)ViewData["EmpKey"];
+    // Employee emp = ViewBag.EmpKey;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyView</title>
+</head>
+<body>
+    <h1>@Model.UserName,@Model.Greeting</h1>
+    <hr />
+    <div>
+
+        <h2>员工信息</h2>
+        <p>姓名: @Model.EmployeeName</p>
+        <p>工资: @Model.EmployeeSalary</p>
+        <p>级别：@Model.EmployeeGrade</p>
+               
+                   
+         
+                   
+    </div>
+</body>
+</html>

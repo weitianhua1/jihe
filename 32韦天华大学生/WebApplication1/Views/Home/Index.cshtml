@@ -1,0 +1,58 @@
+﻿@using WebApplication1.Models
+@model Weather
+@{
+    ViewBag.Title = "主页";
+}
+
+<div class="jumbotron">
+    <h1>2017软件技术2班</h1>
+    <p class="lead">案例教程</p>
+    <p></p>
+</div>
+  <h3>@Model.City 今日天气</h3>
+  <ul>
+      <li>@Html.DisplayNameFor(Model => Model.Date_y):@Model.Date_y</li>
+      <li>@Html.DisplayNameFor(Model=>Model.Temperature):@Model.Temperature</li>
+      <li>@Html.DisplayNameFor(Model => Model.Humidity):@Model.Humidity</li>
+      
+      
+  </ul>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=8GA7WpIOcFQ2ZWhbtIwyZpcs4tyCRzuc"></script>
+<h3 id="city"></h3>
+<ul>
+    <li id="temperature">Temperature</li>
+    <li id="humidity"></li>
+</ul>
+
+<script type="text/javascript">
+	// 百度地图API功能
+        var geolocation = new BMap.Geolocation();
+        geolocation.getCurrentPosition(function (r) {
+            if (this.getStatus() == BMAP_STATUS_SUCCESS) {
+                console.log(r.address.city);
+                var ajax = new XMLHttpRequest();
+                ajax.open("POST", "../home/getWeather", true);
+                ajax.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                ajax.send("city=" + r.address.city);
+                ajax.responseType = "json";
+                ajax.onload=function()
+                {
+                    if(ajax.status===200)
+                    {
+                        json = ajax.response;
+                        document.querySelector("#city").textContent = json.City;
+                        document.querySelector("#temperature").textContent = json.Temperature;
+                        document.querySelector("#humidity").textContent = json.Humidity;
+                    }
+                    else
+                    {
+                        console.log('网络请求Products.json失败，响应码' + ajax.status + ':' + ajax.status);
+                    }
+                }
+            }
+            else {
+                console.log("定位失败");
+            }
+        },{enableHighAccuracy:true})
+
+</script>

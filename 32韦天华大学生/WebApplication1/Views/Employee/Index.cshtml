@@ -1,0 +1,37 @@
+﻿@*强视图类型*@
+@model WebApplication1.ViewModels.EmployeeListViewModel
+
+@{
+    Layout = "~/Views/Shared/MyLyout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>@Model.UserName,@Model.Greeting</h2>
+    <p><a href="/employee/addNew">新增</a></p>
+    
+    <div> 
+        <ul>
+            @*@foreach (var item in Model.EmployeeViewList)
+            {
+                <li>@Html.DisplayFor(modelItem => item.EmployeeName)@item.EmployeeName,@item.EmployeeSalary,@item.EmployeeGrade @Html.ActionLink("删除", "Delete", new { id = item.EmployeeId }) &nbsp; @Html.ActionLink("修改", "Update", new { id = item.EmployeeId }) </li>
+            }*@
+            @foreach (var item in Model.EmployeeViewList)
+            {
+                <li>
+                    @Html.DisplayFor(modelItem => item.EmployeeName)
+                    @Html.DisplayFor(modelItem => item.EmployeeSalary)
+                    @Html.DisplayFor(modelItem => item.EmployeeGrade)
+                    @Html.ActionLink("删除", "delete", new { id = item.EmployeeId }) &nbsp;@Html.ActionLink("编辑", "Update", new { id = item.EmployeeId })
+                </li>
+            }
+        </ul>
+    </div>
+</body>
+</html>

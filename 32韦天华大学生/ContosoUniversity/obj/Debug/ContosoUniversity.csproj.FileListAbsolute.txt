@@ -1,0 +1,265 @@
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\ApplicationInsights.config
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\WebGrease.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\admin\Desktop\WebApplication1\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\ApplicationInsights.config
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\WebGrease.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\wg\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\admin\Desktop\wg\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\ApplicationInsights.config
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\csc.exe
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\vbc.exe
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\ContosoUniversity.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\EntityFramework.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.Web.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.Razor.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\WebGrease.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\EntityFramework.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.Web.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.Razor.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\EntityFramework.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\MIN\MVC\MVCWeb\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\PagedList.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\PagedList.xml
+D:\MIN\MVC\MVCWeb\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\csc.exe
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\ApplicationInsights.config
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\PagedList.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\WebGrease.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\PagedList.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\admin\Documents\Tencent Files\815438609\FileRecv\MVCWeb(1)\ContosoUniversity\obj\Debug\ContosoUniversity.pdb

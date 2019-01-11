@@ -1,0 +1,7 @@
+D:\school\MVC\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\school\MVC\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\school\MVC\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\school\MVC\ConsoleApplication2\bin\Debug\JsonObject.dll
+D:\school\MVC\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\school\MVC\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\school\MVC\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
